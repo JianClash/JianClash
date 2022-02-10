@@ -1,4 +1,4 @@
-### Hi there 👋
+### Nothing intresting here I work on fun projects like anyother programmers
 
 <!--
 **JianClash/JianClash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
