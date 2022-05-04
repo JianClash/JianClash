@@ -1,7 +1,7 @@
 ![code png](https://github.com/JianClash/JianClash/blob/606fef32e8c7fb63f814e19983be6231b2d5dc07/code1.png)
 
-- 🔭 I’m currently working on [Snake-AI](https://github.com/JianClash/Snake-AI/)
-- 👯 I’m looking to collaborate on Python
+- 🔭 I’m currently working on [Team mes 81](https://github.com/JianClash/Snake-AI/)
+- 👯 I’m looking to collaborate on Javascript, Typscript, Python
 - 📫 How to reach me: jianclash8@gmail.com
 <!--
 **JianClash/JianClash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
