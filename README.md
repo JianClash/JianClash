@@ -1,6 +1,6 @@
 ![code png](https://github.com/JianClash/JianClash/blob/606fef32e8c7fb63f814e19983be6231b2d5dc07/code1.png)
 
-- 🔭 I’m currently working on [Rinza Garments](https://github.com/JianClash/RinzaGarments/)
+- 🔭 I’m currently working on [Rinza Garments](https://github.com/JianClash/RinzaGarmants)
 - 👯 I’m looking to collaborate on Javascript, Typscript, Python
 - 📫 How to reach me: jianclash8@gmail.com
 <!--
