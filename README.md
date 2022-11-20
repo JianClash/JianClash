@@ -1,4 +1,4 @@
-![code png](https://github.com/JianClash/JianClash/blob/606fef32e8c7fb63f814e19983be6231b2d5dc07/code1.png)
+![code png](https://github.com/JianClash/JianClash/blob/main/code2.png)
 
 - 🔭 I’m currently working on [Tresend](https://github.com/Fugnu-Games/Tresend/)
 - 🌱 I’m currently learning GdScript, C
