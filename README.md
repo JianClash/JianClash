@@ -1,9 +1,9 @@
 ![code png](https://github.com/JianClash/JianClash/blob/main/code2.png)
 
-- 🔭 I’m currently working on [Tresend](https://github.com/Fugnu-Games/Tresend/)
-- 🌱 I’m currently learning GdScript, C
-- 👯 I’m looking to collaborate on Javascript, Typscript, Python, GDScript
-- ⚡ Fun fact: I started Learning programming 2 years ago when I was bored during corona
+- 🔭 I’m currently working on [Ayah darse quran](https://github.com/JianClash/AayathDarseQuran)
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on Javascript, Typscript, Python, GDScript, Flutter
+- ⚡ Fun fact: I started Learning programming 2 years ago when I was bored during the pandemic
 - 📫 How to reach me: jianclash8@gmail.com
 <!--
 **JianClash/JianClash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
