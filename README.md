@@ -1,6 +1,6 @@
 ![code png](https://github.com/JianClash/JianClash/blob/main/code2.png)
 
-- 🔭 I’m currently working on [Ayah darse quran](https://github.com/JianClash/AayathDarseQuran)
+- 🔭 I’m currently working on [Aayath Darse Quran](https://github.com/JianClash/Aayath-Darse-Quran)
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Javascript, Typscript, Python, GDScript, Flutter
 - ⚡ Fun fact: I started Learning programming 2 years ago when I was bored during the pandemic
