@@ -7,7 +7,6 @@
 - 📫 How to reach me: 
 -   mail: jianclash8@gmail.com
 -   discord: JianClash#8585
--  
 <!--
 **JianClash/JianClash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
