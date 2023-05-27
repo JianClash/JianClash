@@ -4,7 +4,10 @@
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Javascript, Typscript, Python, GDScript, Flutter
 - ⚡ Fun fact: I started Learning programming 2 years ago when I was bored during the pandemic
-- 📫 How to reach me: jianclash8@gmail.com
+- 📫 How to reach me: 
+-   mail: jianclash8@gmail.com
+-   discord: JianClash#8585
+-  
 <!--
 **JianClash/JianClash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
