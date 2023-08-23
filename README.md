@@ -1,5 +1,7 @@
 ![code png](https://github.com/JianClash/JianClash/blob/main/code2.png)
 
+- 🔭 I’m currently working on [Tresend](https://https://github.com/Fugnu-Games/Tresend)
+- 🌱 I’m currently learning GDScript
 - 👯 I’m looking to collaborate on Javascript, Typscript, Python, GDScript, Flutter
 - ⚡ Fun fact: I started Learning programming 3 years ago when I was bored during the pandemic
 - 📫 How to reach me: 
@@ -10,8 +12,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Aayath Darse Quran](https://github.com/JianClash/Aayath-Darse-Quran)
-- 🌱 I’m currently learning Flutter
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
