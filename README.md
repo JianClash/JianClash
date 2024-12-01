@@ -1,9 +1,8 @@
-![code png](https://github.com/JianClash/JianClash/blob/main/code2.png)
 
-- 🔭 I’m currently working on [Tresend](https://https://github.com/Fugnu-Games/Tresend)
-- 🌱 I’m currently learning GDScript
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ....
 - 👯 I’m looking to collaborate on Javascript, Typscript, Python, GDScript, Flutter
-- ⚡ Fun fact: I started Learning programming 3 years ago when I was bored during the pandemic
 - 📫 How to reach me: 
 -   mail: jianclash8@gmail.com
 -   discord: JianClash#8585
